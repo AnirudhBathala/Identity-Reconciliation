@@ -17,3 +17,7 @@ type IndentityPayload struct{
 	Email string 
 	PhoneNumber string 
 }
+
+type ServiceStore interface{
+	
+}
